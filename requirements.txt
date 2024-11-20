@@ -1,0 +1,8 @@
+transformers
+accelerate
+sentencepiece
+datasets[audio]
+soundfile
+speechbrain
+webrtcvad
+torchaudio
