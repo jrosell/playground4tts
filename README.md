@@ -15,14 +15,7 @@ bash install.sh
 
 # Results
 
-aina-tts-catala.wav
-[output/aina-tts-catala.wav](output/aina-tts-catala.wav)
-
-facebook-tts-catala.wav
-[output/facebook-tts-catala.wav](output/facebook-tts-catala.wav)
-
-microsoft-tts-commonvoice-catala.wav
-[output/microsoft-tts-commonvoice-catala.wav](output/microsoft-tts-commonvoice-catala.wav)
-
-microsoft-tts-openslr-catala.wav
-[output/microsoft-tts-openslr-catala.wav](output/microsoft-tts-openslr-catala.wav)
+* [aina-tts-catala.wav](https://github.com/jrosell/playground4tts/raw/refs/heads/main/output/aina-tts-catala.wav)
+* [facebook-tts-catala.wav](https://github.com/jrosell/playground4tts/raw/refs/heads/main/output/facebook-tts-catala.wav)
+* [microsoft-tts-commonvoice-catala.wav](https://github.com/jrosell/playground4tts/raw/refs/heads/main/output/microsoft-tts-commonvoice-catala.wav)
+* [microsoft-tts-openslr-catala.wav](https://github.com/jrosell/playground4tts/raw/refs/heads/main/output/microsoft-tts-openslr-catala.wav)
