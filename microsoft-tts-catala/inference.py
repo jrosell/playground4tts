@@ -37,9 +37,6 @@ output_path_2 = "../output/microsoft-tts-openslr-catala.wav"
 
 import scipy.io.wavfile as wav
 
-# Convert the waveform to a numpy array
-speech_1 = speech_1.squeeze(0).float()  # Remove the batch dimension
-speech_2 = speech_2.squeeze(0).float()  # Remove the batch dimension
 
 # Save as .wav using scipy
 torchaudio.save(output_path_1, speech_1.unsqueeze(0), sample_rate=16000)  # Add batch dimension back

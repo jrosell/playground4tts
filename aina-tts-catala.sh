@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 export CURRENT_DIR="$(pwd)"
 source "./venv/bin/activate"
 PYTHON="$CURRENT_DIR/venv/bin/python"

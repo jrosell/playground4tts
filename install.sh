@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 rm -rf ./venv ./espeak-ng ./Matcha-TTS ./output
 mkdir output
 python3 -m venv venv
