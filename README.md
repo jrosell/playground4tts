@@ -13,12 +13,14 @@ In this repo there are multiple Text-to-Speach models available in catalan:
 bash install.sh
 ```
 
-## Results
+
+## Example results
 
 ```
 bash aina-tts-catala.sh
 ```
-* [aina-tts-catala.wav](https://github.com/jrosell/playground4tts/raw/refs/heads/main/output/aina-tts-catala.wav)
+* [aina-tts-catala-multiaccent.wav](https://github.com/jrosell/playground4tts/raw/refs/heads/main/output/aina-tts-catala-multiaccent.wav)
+* [aina-tts-catala-multispeaker.wav](https://github.com/jrosell/playground4tts/raw/refs/heads/main/output/aina-tts-catala-multispeaker.wav)
 
 ```
 bash facebook-tts-catala.sh
